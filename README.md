@@ -1,6 +1,6 @@
 # 2023_Autumn_Teaching_Associate
 
-##第一次作业
+##第一次作业##
 基于给出的 Breast Cancer Wisconsin (Diagnostic) Dataset 搭建一个简单的分类器(如，朴素贝叶斯分类器、最近邻分类器)，实现对乳腺肿瘤良恶性的预测。
 **要求**：
 1. Python实现；
@@ -9,7 +9,7 @@
 - 代码、可视化结果打包发送至sunhao0504@bupt.edu.cn
 - 命名格式为姓名_学号， e.g. 张三_2020111234.zip
 - 提交时间以邮件时间戳为准。
-###数据集说明
+###数据集说明###
 Attribute Information:
 1. ID number
 2. Diagnosis (M = malignant, B = benign)
