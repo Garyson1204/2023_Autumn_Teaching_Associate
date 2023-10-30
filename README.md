@@ -34,3 +34,6 @@
 - concave points (number of concave portions of the contour)
 - symmetry
 - fractal dimension ("coastline approximation" - 1)
+
+### Reference
+https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
